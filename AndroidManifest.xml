@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme" >
         <meta-data android:value="true" android:name="xposedmodule"/>
         <meta-data android:value="2.0*" android:name="xposedminversion"/>
-        <meta-data android:value="ugh bob." android:name="xposeddescription"/>
+        <meta-data android:value="Makes bob's game play nice with touch screens." android:name="xposeddescription"/>
     </application>
 
 </manifest>
