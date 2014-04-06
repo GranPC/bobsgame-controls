@@ -210,6 +210,6 @@ public class BobsGameControls implements IXposedHookLoadPackage
         catch ( Throwable e )
         {
 	    	XposedBridge.log( e );
-	    }		
+	    }
 	}
 }
